@@ -9,7 +9,7 @@ def main():
       print(f'you rolled a {roll}! Critical fail!')
 
     elif roll == 6:
-      print(f'YOu rolled a {roll}! Critical Success!')
+      print(f'you rolled a {roll}! Critical Success!')
     
     else:
       print(f'you rolled a {roll}')
